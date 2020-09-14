@@ -2,6 +2,8 @@
 
 Project to easy use Epitech BLIH on all OS and distributions.
 
+`Blih` script was extracted from Epitech repository: [Epitech Dump](https://github.com/Epitech/dump)
+
 ## How to use
 
 Test your container:
