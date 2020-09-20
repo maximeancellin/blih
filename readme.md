@@ -43,6 +43,14 @@ blih -u firstname.lastname@epitech.eu repository create
 my_repo
 ```
 
+### Clone repository
+
+```shell
+git clone git@git.epitech.eu:/{epitech_mail}/{repo_name}
+```
+
+> If your first login (when you beginning Epitech) it's not your email you must use it.
+
 ### Give permissions
 
 ```shell
